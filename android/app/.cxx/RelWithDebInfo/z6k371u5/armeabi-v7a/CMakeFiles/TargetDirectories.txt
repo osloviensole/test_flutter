@@ -1,0 +1,2 @@
+C:/Users/Oslovie/Documents/saiz/print_partax_test/android/app/.cxx/RelWithDebInfo/z6k371u5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Oslovie/Documents/saiz/print_partax_test/android/app/.cxx/RelWithDebInfo/z6k371u5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
